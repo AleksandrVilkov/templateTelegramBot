@@ -70,7 +70,7 @@
                             <archive>
                                 <manifest>
                                     <mainClass>
-                                        com.dumpBot.Main
+                                        com.bot.Main
                                     </mainClass>
                                 </manifest>
                             </archive>
